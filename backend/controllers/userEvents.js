@@ -1,3 +1,4 @@
+/*
 const apiService = require('./../data/apiService'),
     dbService = require('./../data/databaseService'),
     express = require('express'),
@@ -43,3 +44,4 @@ router.get('/feed', (req, res, next) => {
 });
 
 module.exports = router;
+   */
